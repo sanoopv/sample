@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import careerimage from '../images/careerspage_header.jpg';
+import careerimage from '../images/sample.jpg';
 export default class WelcomeImage extends Component {
     render() {
         return (

@@ -16,22 +16,22 @@ let jobs = [
     {
         jobTitle: 'SDE 1',
         jobDesc: 'Job desc for SDE1',
-        jobLocation: 'Sydney',
+        jobLocation: 'Delhi',
         jobEndDate: '2017-10-30'
     }, {
         jobTitle: 'SDE 2',
         jobDesc: 'Job desc for SDE2',
-        jobLocation: 'Sydney',
+        jobLocation: 'Delhi',
         jobEndDate: '2017-10-30'
     }, {
         jobTitle: 'SDE 1',
         jobDesc: 'Job desc for SDE1',
-        jobLocation: 'Gosford',
+        jobLocation: 'Bangalore',
         jobEndDate: '2017-10-30'
     }, {
         jobTitle: 'SDM',
         jobDesc: 'Job desc for SDM',
-        jobLocation: 'Sydney',
+        jobLocation: 'Delhi',
         jobEndDate: '2017-10-31'
     }
 ]

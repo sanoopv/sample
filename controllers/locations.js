@@ -8,17 +8,17 @@ router.get('/', (req, res) => {
 let locations = [
     {
         id: 1,
-        name: 'Gosford',
-        state: 'New South Wales'
+        name: 'Bangalore',
+        state: 'Karnataka'
     },
     {
         id: 2,
-        name: 'Sydney',
-        state: 'New South Wales'
+        name: 'Delhi',
+        state: 'Delhi'
     },{
         id: 3,
-        name: 'New Castle',
-        state: 'New South Wales'
+        name: 'Mysore',
+        state: 'Karnataka'
     }
 ]
 module.exports = router;
